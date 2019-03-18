@@ -70,7 +70,7 @@ the left hand side of the mainframe, pick InverseDynamics by clicking it
 once and click the Run button. This should start the analysis and the
 bicycle starts running the in Model View window.
 
-After the analysis is completed, click Window->ChartFX to open a window
+After the analysis is completed, click the chart tab to the right, 
 where we can examine graphs. Navigate in the tree on the left hand side
 of the window through Study, Output, Model, Leg2D, Right, Mus, and
 expand the branch for one of the muscles, for instance Ham, which is the
